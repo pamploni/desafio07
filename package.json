@@ -18,7 +18,7 @@
     "filesize": "^6.1.0",
     "history": "^4.10.1",
     "json-server": "^0.16.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.27.0",
     "polished": "^3.6.0",
     "qrcode.react": "^1.0.0",
